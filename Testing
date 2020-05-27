@@ -10,14 +10,15 @@
       "certificate_thumbprint": "7094FAE830E319B36426422957160769E06CDB9B",
       "certificate_url": "https://raw.githubusercontent.com/MinisBett/ultimate-osu-server-switcher/master/data/certificates/ripple.cer"
     },
-	{
-	  "name": "Gatari",
+    {
+      "name": "Gatari",
       "featured": false,
       "ip": "163.172.255.98",
       "website_url": "https://osu.gatari.pw/",
       "icon_url": "https://osu.gatari.pw//static/images/icons/gatari-logo.png",
       "certificate_thumbprint": "4132009278647693b374b4f4e157fb5949601fe4",
       "certificate_url": "https://raw.githubusercontent.com/asppect/OsuPrivateServers/master/Gatari.crt"
+    },
     {
       "name": "EZPPFarm",
       "featured": true,
